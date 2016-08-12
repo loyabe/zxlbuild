@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+<target name="exe">
+    <property name="appId" value="com.xmexe.execo"/>
+    <property name="jpush.appId" value="710fd2031e74989a7c30e939" />
+    <property name="wechat.appId" value=""/>
+    <property name="info.plist" value="exe-info.plist"/>
+</target>
+</configuration>

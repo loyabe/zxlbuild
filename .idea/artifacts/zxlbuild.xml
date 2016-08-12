@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zxlbuild">
+    <output-path>$PROJECT_DIR$/out/artifacts/zxlbuild</output-path>
+    <root id="archive" name="zxlbuild.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="zxlbuild" />
+    </root>
+  </artifact>
+</component>
